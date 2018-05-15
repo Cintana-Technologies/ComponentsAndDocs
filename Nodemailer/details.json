@@ -1,0 +1,14 @@
+{
+    "service":"gmail",
+    "portnumber":"25",
+    "usermail": "cintanatechnology@gmail.com",
+    "userpass":"7277593672",
+    "sendermail":"cintanatechnology@gmail.com",
+    "receivermail":"rahulsaivishnu@gmail.com",
+    "subject": "Testing mail",
+    "text":"hi people of cintana you have successfully received the mail from cintana technology",
+    "html":"<h1>Welcome</h1><p>Have a Happy Life with everyone and with yourself.</p>",
+    "path":"public/file/upload/file.png",
+    "host":"imap.gmail.com",
+    "imapport":"993"
+}
